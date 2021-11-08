@@ -2,7 +2,7 @@
 
 #### By _**Nick Sullivan**_
 
-#### _Short description_
+#### _Receives a list of items and appends them to a <ul> below the form._
 
 ## Technologies Used
 
@@ -10,7 +10,7 @@
 
 ## Description
 
-__
+_Input a list for grocery shopping that is separated by commas. Once summited, the webpage will return the list in all uppercase and alphabetized._
 
 ## Setup Instructions
 
@@ -26,7 +26,7 @@ __
 
 ## License
 
-Copyright (c) _10/27/2021_ _by Nick Sullivan_
+Copyright (c) _11/08/2021_ _by Nick Sullivan_
 
 
 _Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:_
