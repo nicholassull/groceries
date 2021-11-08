@@ -2,11 +2,16 @@ $(document).ready(function() {
   $("#item-form").submit(function(event) {
     event.preventDefault();
     const itemArray = $("#item-list").val().split(",");
-    let trimArray = [];
+    let newArray = [];
     
-    trimArray = itemArray.map(function (element) {
+    newArray = itemArray.map(function (element) {
       return element.trim().toUpperCase();
     });
-    console.log(trimArray);
+    newArray.sort();
+
+    newArray.forEach(function(element) {
+      $("#grocery-list").append("<li>" + element + "</li>");
+    });
+  
   })
 });
