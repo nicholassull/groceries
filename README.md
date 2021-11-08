@@ -2,7 +2,7 @@
 
 #### By _**Nick Sullivan**_
 
-#### _Receives a list of items and appends them to a <ul> below the form._
+#### _Receives a list of items and appends them to an unordered list below the form._
 
 ## Technologies Used
 
