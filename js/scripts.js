@@ -12,6 +12,6 @@ $(document).ready(function() {
     newArray.forEach(function(element) {
       $("#grocery-list").append("<li>" + element + "</li>");
     });
-  
+    $("form#item-form").addClass("hidden");
   })
 });
