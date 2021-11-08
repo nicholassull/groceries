@@ -5,7 +5,7 @@ $(document).ready(function() {
     let trimArray = [];
     
     trimArray = itemArray.map(function (element) {
-      return element.trim();
+      return element.trim().toUpperCase();
     });
     console.log(trimArray);
   })
