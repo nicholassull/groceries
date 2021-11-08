@@ -1,4 +1,4 @@
-# _Title_
+# _Groceries_
 
 #### By _**Nick Sullivan**_
 
@@ -6,7 +6,11 @@
 
 ## Technologies Used
 
-* __
+* _HTML_
+* _CSS_
+* _JavaScript_
+* _jQuery_
+* _Bootstrap_
 
 ## Description
 
@@ -16,7 +20,7 @@ _Input a list for grocery shopping that is separated by commas. Once summited, t
 
 * _Open your terminal and navigate to the folder you'd like to download the files into._
 * _Run the command below_
-> git clone https://github.com/nicholassull/portfolio-landing
+> git clone https://github.com/nicholassull/groceries.git
 * _Open index.html_
 
 
